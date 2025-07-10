@@ -8,7 +8,7 @@ Also contains function to recognize handwritten text
 from a picture.
 Write text in format:
 D1  L1  N1
-..........
+..  ..  ..
 Dn  Ln  Nn
 scan and feed it to the program.
 PyArmCalc will recognize the text and fill the lines.
