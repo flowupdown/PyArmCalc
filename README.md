@@ -6,7 +6,7 @@ Implemented with Python 3.
 Contains tools for calculation reinforcing bars.
 Also contains function to recognize handwritten text
 from a picture.
-Write text in format:
+Write down text in format:
 D1  L1  N1
 ..  ..  ..
 Dn  Ln  Nn
